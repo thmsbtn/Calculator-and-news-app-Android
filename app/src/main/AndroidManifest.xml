@@ -15,12 +15,8 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
-        <activity android:name=".ScintificMode" />
-
-
-
+        <activity android:name=".ScMode"></activity>
     </application>
 
 </manifest>
