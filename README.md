@@ -13,4 +13,7 @@ Toutes les librairies se trouve dans le graddle.
 
 
 NEWS : 
-Avec le spinner on selectionne un catégorie et on contruit une nouvelle query avec c'est paramètre 
+Avec le spinner on selectionne un catégorie et on contruit une nouvelle query
+Attention il faut avoir internet sinon l'appli crash
+quand on click sur le spinner réactualise le fragment
+puis quand on click sur le card sxitch d'activité et affiche une web view
