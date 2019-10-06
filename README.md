@@ -2,7 +2,8 @@
 Calculette et application de news en kotlin
 
 
-CALCULETTE :
+CALCULETTE : (app dans le projet)
+
 Elle possède deux modes. Le mode normal coloré et le mode scientifique ont switch entre eux avec le bouton en bas à gauche.
 Les boutons se bloc pour éviter des erreurs.
 par exemple on ne peut marquer -/ donc on bloc les touches / et * pour eviter les erreurs
@@ -12,7 +13,7 @@ Toutes les librairies se trouve dans le graddle.
 
 
 
-NEWS : 
+NEWS : (example dans le projet )
 Avec le spinner on selectionne un catégorie et on contruit une nouvelle query
 Attention il faut avoir internet sinon l'appli crash
 quand on click sur le spinner réactualise le fragment
